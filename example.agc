@@ -1,1 +1,1 @@
-let x : int 20
+let x = 2 
